@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import Register from './register/Register.vue'
-import Identity from './identity/identity.vue'
+import Identity from './identity/Identity.vue'
 
 import local_sign from 'local-sign';
 

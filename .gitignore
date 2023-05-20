@@ -1,3 +1,10 @@
+# Local Modules
+local-sign/
+wasm-client/
+
+# Packages
+/register.zip
+
 # Logs
 logs
 *.log
