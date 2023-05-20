@@ -1,6 +1,8 @@
 # Local Modules
 local-sign/
 wasm-client/
+/local-sign
+/wasm-client
 
 # Packages
 /register.zip
